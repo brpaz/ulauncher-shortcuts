@@ -1,0 +1,18 @@
+{
+    "required_api_version": "^2.0.0",
+    "name": "Shortcuts",
+    "description": "View your favorite applications shortcuts directly from Ulauncher",
+    "developer_name": "Bruno Paz",
+    "icon": "images/icon.png",
+    "options": {
+        "query_debounce": 0.1
+    },
+    "preferences": [
+        {
+            "id": "demo_kw",
+            "type": "keyword",
+            "name": "Shortcuts",
+            "default_value": "shortcuts"
+        }
+    ]
+}
