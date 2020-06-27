@@ -4,7 +4,7 @@
 
 [![Ulauncher Extension](https://img.shields.io/badge/Ulauncher-Extension-yellowgreen.svg?style=for-the-badge)](https://ext.ulauncher.io/)
 [![CI Status](https://img.shields.io/github/workflow/status/brpaz/ulauncher-shortcuts/CI?color=orange&label=actions&logo=github&logoColor=orange&style=for-the-badge)](https://github.com/brpaz/ulauncher-shortcuts)
-[![license](https://img.shields.io/github/license/brpaz/ulauncher-shortcuts.svg?style=for-the-badge)](https://github.com/brpaz/:ulauncher-shortcuts/blob/master/LICENSE)
+[![license](https://img.shields.io/github/license/brpaz/ulauncher-shortcuts.svg?style=for-the-badge)](LICENSE)
 
 
 ## Demo
