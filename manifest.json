@@ -9,7 +9,7 @@
     },
     "preferences": [
         {
-            "id": "demo_kw",
+            "id": "kw",
             "type": "keyword",
             "name": "Shortcuts",
             "default_value": "shortcuts"
